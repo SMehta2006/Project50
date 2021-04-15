@@ -1,0 +1,32 @@
+.menu {
+    display:flex;
+    justify-content: space-between;
+    background-color: cadetblue;
+    font-size: 40;
+    font-family: monospace;
+    font-weight: 400;
+    color: white;
+}
+
+.header {
+    text-align: center;
+}
+
+.grid {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.grid img {
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami {
+    border-radius: 20px;
+    width: 310px;
+    font-family: cursive;
+}
+
+body {
+    background-color: rgb(241, 237, 237);
+}
